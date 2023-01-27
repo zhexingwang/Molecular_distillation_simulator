@@ -1,5 +1,3 @@
 # Molecular_distillation_simulator
 
-# github token: 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
-
-# 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
+# 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
